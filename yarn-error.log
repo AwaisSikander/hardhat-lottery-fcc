@@ -1,0 +1,27 @@
+Arguments: 
+  /home/awais/.asdf/installs/nodejs/18.15.0/bin/node /home/awais/.asdf/installs/nodejs/18.15.0/bin/yarn add hardhat --dev
+
+PATH: 
+  /home/awais/.asdf/plugins/nodejs/shims:/home/awais/.asdf/installs/nodejs/18.15.0/bin:/home/awais/.rbenv/shims:/home/awais/.rbenv/bin:/home/awais/.asdf/shims:/home/awais/.asdf/bin:/home/awais/.rbenv/shims:/home/awais/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/awais/.rvm/bin:/home/awais/Android/Sdk/emulator:/home/awais/Android/Sdk/platform-tools:/home/awais/.rvm/bin:/home/awais/.rvm/bin:/home/awais/Android/Sdk/emulator:/home/awais/Android/Sdk/platform-tools:/home/awais/.rvm/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.15.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
